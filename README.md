@@ -1,5 +1,5 @@
 # Google-Hash-Code-2022
-#ayush Kumar namdeo 
+# iam Akash Reddy  and my friend Ayush
 
 google hash code practice problem
 Problem
